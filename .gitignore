@@ -1,1 +1,2 @@
 /docker/mongo_db_data/*
+/app/vendor
