@@ -1,0 +1,11 @@
+{
+    "name": "hallowelt42/mongolearn",
+    "autoload": {
+        "psr-4": {
+            "Hallowelt42\\Mongolearn\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    }
+}
